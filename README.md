@@ -10,7 +10,7 @@ Then it should say “Assembling completed without problems.”.
 <!--
 ---
 ## How To Use My BPS Patches
- 1. Download [Floating IPS](https://github.com/Alcaro/Flips) If you don't have it already (There are Other Programs),
+ 1. Download [Floating IPS](https://github.com/Alcaro/Flips) If you don't have it already (There are Other Programs that support BPS Patches),
  2. Download The BPS Patches You are going to use,
  3. Open Floating IPS, Click The Apply Patch Button,
  4. Select The Patches You are Going to, use,
