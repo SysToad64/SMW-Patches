@@ -13,7 +13,7 @@ Then it should say “Assembling completed without problems.”.
  1. Download [Floating IPS](https://github.com/Alcaro/Flips) If you don't have it already (There are Other Programs that support BPS Patches),
  2. Download The BPS Patches You are going to use,
  3. Open Floating IPS, Click The Apply Patch Button,
- 4. Select The Patches You are Going to, use,
+ 4. Then Select The Patches You are Going to, use,
  5. Then Select The ROM,
  6. If the Patch isn't broken, You Should get the message: “The patch was applied successfully!”
 -->
